@@ -10,7 +10,7 @@
     "geometry":{"type":"Point","coordinates":[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Clouds",
+    "chapter":"Chapter 2: What is It? ",
     "zoom":5,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
