@@ -1,16 +1,19 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: The Folio",
+    "chapter":"Chapter 1: The Shahnamah",
     "zoom":1,
     "image":"img/pictorial-st-louis.png",
     "source-credit":"Source: Library of Congres",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"A popular cartographic form used to depict U.S. and Canadian cities and towns during the late nineteenth and early twentieth centuries was the panoramic map. Known also as bird's-eye views, perspective maps, panoramas, and aero views, panoramic maps are nonphotographic representations of cities, portrayed as if viewed from above at an oblique angle. Although not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective.\" (Hebert & Dempsey)"},
-    "geometry":{"type":"Point","coordinates":[3319,4092]}},
+    "description":"\"The Shahnamah writings and illustrations are a beacon of Islamic history and culture. Identified as one of the leading factors in the preservation and continuation of classic Persian culture the works have stood the test of time. The epic poem takes readers on journey’s centered around dealing with problems in life, love, war, and many other things that offered lessons or teachings on life. The poems range in diversity from fictional to some even having some element of historical accuracy.Recurring characters come fictional and mythical, and others real people. With stories so diverse and rich in imagery illustrations have been paired with the writing. Detailed pictures often times with multiple meanings and hidden connections accompany many of the tales in the Shahnamah. The illustrations vary based on artist and region giving those with an imagination the freedom showcase their interpretation of the stories. Many of the drawings are held  in high regard and recognized for their artistic strengths. Let’s take a deeper look at the Shahnamah and why it’s still so highly revered to this day.
+
+
+
+:[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Clouds",
+    "chapter":"Chapter 2:Ferdowsi ",
     "zoom":5,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
@@ -19,7 +22,7 @@
     "geometry":{"type":"Point","coordinates":[1385,1360]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: Rock",
+    "chapter":"Chapter 3: Illustrations in The Shahnamah",
     "zoom":4,
     "image":"img/pictorial-st-louis-water-works.png",
     "source-credit":"Source: StLouis-MO.gov",
