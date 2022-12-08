@@ -55,7 +55,7 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
 {"type":"Feature","properties":
     {"id":7,
-    "chapter":"Chapter 7: Significance of the work
+    "chapter":"Chapter 7: Significance of the work",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
