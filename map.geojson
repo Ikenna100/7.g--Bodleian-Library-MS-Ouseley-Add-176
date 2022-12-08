@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: The Shahnamah",
+    "chapter":"Bodleian Library Ms. Ousley Add fol 7.b",
     "zoom":1,
     "image":"img/pictorial-st-louis.png",
     "source-credit":"Source: Library of Congres",
