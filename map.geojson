@@ -25,7 +25,7 @@
     "source-credit":"Source: StLouis-MO.gov",
     "source-link":"https://www.stlouis-mo.gov/archive/neighborhood-histories-norbury-wayman/bissell/works4.htm",
     "description":"Many artists throughout the years have put their own interpretation and understanding of what exactly is occurring in the story. Other times pictures that may not have a story may be featured in the book leaving the reader to follow up on the origins of the picture and the significance to the history of Iran at that time. Images to pay homage or show affinity for certain figures could also be included in the illustrations if decided on by the artist. Regardless of the subject of the illustration, the visuals are held in high regard. So much so that as recently as this year a picture of the warrior Rostam corralling his horse Raksh was sold for a whopping 8.1 million euros. Part of the intrigue with the illustrations is the visual busyness of the illustrations sometimes showing multiple scenes depicted in one display. The colour schemes and contrasts are as rich as the stories they represent. I’ll be breaking down one of the many illustrations in the Shahnameh held by the Oxford Bodleian Library."},
-    "geometry":{"type":"Point","coordinates":[3145,1680]}},
+    "geometry":{"type":"Point","coordinates":[3045,1600]}},
   {"type":"Feature","properties":
     {"id":4,
     "chapter":"Chapter 4: Ibrahim sultan in Battle",
@@ -37,12 +37,16 @@
     "geometry":{"type":"Point","coordinates":[5025,1185]}},
   {"type":"Feature","properties":
     {"id":5,
-    "chapter":"Chapter 5: -------s",
+    "chapter":"Chapter 5: What does This Mean",
     "zoom":3,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/2012586260",
-    "description":"\"...to the Cemeteries on the northwest. Every foot of the vast territory within these limits has been carefully examined and topographically drawn in perspective, by Mr. C. N. Dry and his assistants, and the faithfulness and accuracy with which this work has been done an examination of the pages will attest. Absolute truth and accuracy in the representation of the territory has been the standard and in no cases have additions or alterations been made unless the same were actually in course of construction. In a few cases, important public and private edifices that are not yet finished are shown completed, and as they will appear when done. All the buildings within the limits of the survey in July, 1875, are shown; and a very large number of those executed or commenced since that date have been also introduced, the pages having been constantly corrected up to the last possible moment before publication.\""},
+    "description":"\Chapter text
+Much can be derived from details in illustrations just as this one. Starting with clothing of the men on the horses. They have varying colours of cloaks and helmets, but are still dressed in the same style of attire. We can see from the man in the bottom left on a horse and what seems to be Ibrahim on a horse in the green wearing garments that look long and drawn out. This signifies wealth because these pisces were made from silk. Silk now and then is not a cheap material so using extra like they did shows that they were wealthy. Juxtapose this with the outfits of the men running. They are in skimpier clothes and shorts. They look more mix and match compared to the more uniform noblemen pursuing them. For this reason we can assume these 3 are working class or peasants. Even the horses a draped in their own attire. And all horses and noble men are fitted with some type of headgear which some appear to have gold on them. An interesting part of this picture amongst many is the skin colours of some of the members of the group with Ibrahim. The skin tones vary, and this could be because sometimes individuals who were conquered by the Timurid empire would then start to fight alongside the Timurids.
+
+"Chapter text
+\""},
     "geometry":{"type":"Point","coordinates":[4900,2150]}},
   {"type":"Feature","properties":
     {"id":6,
@@ -66,7 +70,7 @@
     {"id":8,
     "chapter":"Chapter 8: ",
     "zoom":5,
-    "image":"img/pictorial-st-louis-key.png",
+    "image":",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
