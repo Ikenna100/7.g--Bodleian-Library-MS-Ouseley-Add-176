@@ -55,25 +55,32 @@ Much can be derived from details in illustrations just as this one. Starting wit
     "image":"",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"\In this image we see a staple of illustrations on the Shahnamah vibrant rich colour.Obviously due to the age of the illustration some shine has been lost, but we can still see the dynamic use of colour throughout. Eye catching reds are featured on the clokes of some of the horses and one of the men running. The rich noble men on horses have cloaks varying from light green, dark green, purple, and more. The grass of the hill appears to be lightly texture to give more of grass look to it. The variety of fabric options is on full display showcasing different shades and combinations of styles.The hill behind has an interesting look. Lined with what looks purple but could actually just be thick black lines that may have faded over time it may look a bit ambiguous. The ripples in the shape are what make it know that this is in fact a mountain. The ripples are just the characters and cracks of the mountain. The blue sky in the background peaking through is also not to be forgotten. We can see pastel-like clouds in the sky to further accentuate the sky feature.One strength of illustrations of this style is their ability to layer, but not have people lost. In the right and left opposing corners we see men huddled up, but when you look at them you can still recognize individual features like facial features and their particular garment or headwear. I say this to point at the attention to detail and how the artist did not cut corners when they very easily could have.
+ ()"},
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
 {"type":"Feature","properties":
     {"id":7,
     "chapter":"Chapter 7: Significance of the work",
     "zoom":5,
-    "image":"img/pictorial-st-louis-key.png",
+    "image":"",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"\"The Shahnamah has been studied and read countless times. And as extensive and creative as it is it’s no wonder why. There’s so much information yet so much ambiguity mixed all together. Real mixed with the make believe or exaggerated. Calligraphy and illustration mended into one. This mix of attributes is why the Shahnamah is so captivating and has stood the test of time. The combinations play off each other seamlessly and coupled with thrilling historical stories it’s no wonder why it still holds weight today. The contents written down were so uniquely organized and written, that it was only right for the illustrations to be the same. We looked at the depiction Of Sultan Ibrahim in battle and we got an idea of just the amount of power he had at his disposal. Details throughout lead readers on a intellectual journey that makes you analyze every detail in hopes that it tells you more about the past or what’s happening in the picture. Through these slides i hope the magic and creativity of the Shahnamah is clear!
+
+\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3947,2922]}},
 {"type":"Feature","properties":
     {"id":8,
-    "chapter":"Chapter 8: ",
+    "chapter":"Chapter 8: References ",
     "zoom":5,
     "image":",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"\"Cartwright, Mark. "Clothing in the Mongol Empire." World History Encyclopedia. Last modified October 14, 2019. https://www.worldhistory.org/article/1455/clothing-in-the-mongol-empire/. //
+Manz, Beatrice F. "Short-Term Empires in World History the Timurid Empire." Short-Term Empires in World History (2020): 87-101. doi:10.1007/978-3-658-29435-9_4. //
+“Ibrahim Sultan as a Founder-Artist in Timurid Period Iran - Researchgate.” Accessed November 22, 2022. https://www.researchgate.net/publication/295795805_Ibrahim_Sultan_as_a_Founder-Artist_in_Timurid_Period_Iran. 
+Oxford, Bodleian Library MS. Ouseley Add. 176: https://digital.bodleian.ox.ac.uk/objects/bcbfd832-086b-4874-80f8-87500e0de704/
+" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3948,2923]}},
   {"type":"Feature","properties":
     {"id":9,
